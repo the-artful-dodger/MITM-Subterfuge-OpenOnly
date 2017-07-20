@@ -4,9 +4,9 @@ see: http://kinozoa.com/blog/development/
 
 ##Installation
 
-Follow the steps below to download and install the latest version of Subterfuge:
+Follow the steps below to download and install this modified version of Subterfuge:
 ```
-git clone https://github.com/Subterfuge-Framework/Subterfuge.git
+https://github.com/the-artful-dodger/MITM-Subterfuge-OpenOnly.git
 cd Subterfuge
 python setup.py
 ```
